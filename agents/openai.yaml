@@ -1,0 +1,4 @@
+interface:
+  display_name: Project Context Lite
+  short_description: Keep personal project context and evidence lightweight
+  default_prompt: Maintain this project's context and current phase without running heavyweight checks unless the task or milestone requires them.
